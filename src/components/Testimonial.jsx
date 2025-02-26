@@ -13,7 +13,7 @@ function Testimonial() {
             <div class="overflow-hidden bg-blue-100 rounded-md shadow">
               <div class="px-8 py-12">
                 <div class="relative w-24 h-24 mx-auto">
-                  <img class="relative object-cover w-24 h-24 mx-auto rounded-full" src="src/assets/user.png" alt="" />
+                  <img class="relative object-cover w-22 h-22 mx-auto rounded-full" src="src/assets/user.png" alt="" />
                   <div class="absolute top-0 right-0 flex items-center justify-center bg-blue-600 rounded-full w-7 h-7">
                     <svg class="w-4 h-4 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                       <path
@@ -23,9 +23,9 @@ function Testimonial() {
                   </div>
                 </div>
                 <blockquote class="mt-7">
-                  <p class="text-lg text-black">“I had an amazing experience at this clinic. The team was professional, and the treatment was painless. I’m so happy with my new smile!”</p>
+                  <p class="text-lg text-gray-600">“I had an amazing experience at this clinic. The team was professional, and the treatment was painless. I’m so happy with my new smile!”</p>
                 </blockquote>
-                <p class="text-base font-semibold tex-tblack mt-9">Rafiq Ahmed</p>
+                <p class="text-base font-semibold text-black mt-9">Rafiq Ahmed</p>
                 <p class="mt-1 text-base text-gray-600">Dhaka, Bangladesh</p>
               </div>
             </div>
@@ -33,7 +33,7 @@ function Testimonial() {
             <div class="overflow-hidden bg-blue-100 rounded-md shadow">
               <div class="px-8 py-12">
                 <div class="relative w-24 h-24 mx-auto">
-                  <img class="relative object-cover w-24 h-24 mx-auto rounded-full" src="src/assets/user.png" alt="" />
+                  <img class="relative object-cover w-22 h-22 mx-auto rounded-full" src="src/assets/user.png" alt="" />
                   <div class="absolute top-0 right-0 flex items-center justify-center bg-blue-600 rounded-full w-7 h-7">
                     <svg class="w-4 h-4 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                       <path
@@ -43,9 +43,9 @@ function Testimonial() {
                   </div>
                 </div>
                 <blockquote class="mt-7">
-                  <p class="text-lg text-black">"The staff made me feel comfortable from start to finish. My teeth whitening treatment was quick and effective. Highly recommend this!"</p>
+                  <p class="text-lg text-gray-600">"The staff made me feel comfortable from start to finish. My teeth whitening treatment was quick and effective. Highly recommend this!"</p>
                 </blockquote>
-                <p class="text-base font-semibold tex-tblack mt-9">Mina Rahman</p>
+                <p class="text-base font-semibold text-black mt-9">Mina Rahman</p>
                 <p class="mt-1 text-base text-gray-600">Chittagong, Bangladesh</p>
               </div>
             </div>
@@ -53,7 +53,7 @@ function Testimonial() {
             <div class="overflow-hidden bg-blue-100 rounded-md shadow">
               <div class="px-8 py-12">
                 <div class="relative w-24 h-24 mx-auto">
-                  <img class="relative object-cover w-24 h-24 mx-auto rounded-full" src="src/assets/user.png" alt="" />
+                  <img class="relative object-cover w-22 h-22 mx-auto rounded-full" src="src/assets/user.png" alt="" />
                   <div class="absolute top-0 right-0 flex items-center justify-center bg-blue-600 rounded-full w-7 h-7">
                     <svg class="w-4 h-4 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                       <path
@@ -63,7 +63,7 @@ function Testimonial() {
                   </div>
                 </div>
                 <blockquote class="mt-7">
-                  <p class="text-lg text-black">"After my root canal treatment, I was back to eating comfortably in no time. The entire process was smooth and stress-free. Thank you so much!"</p>
+                  <p class="text-lg text-gray-600">"After my root canal treatment, I was back to eating comfortably in no time. The entire process was smooth and stress-free. Thank you so much!"</p>
                 </blockquote>
                 <p class="text-base font-semibold tex-tblack mt-9">Tariq Hasan</p>
                 <p class="mt-1 text-base text-gray-600">Sylhet, Bangladesh</p>

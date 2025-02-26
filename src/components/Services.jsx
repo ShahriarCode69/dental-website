@@ -14,7 +14,7 @@ function Section() {
             <div class="overflow-hidden bg-blue-100 rounded shadow">
               <div class="p-8">
                 <div class="flex items-center">
-                  <img class="flex-shrink-0 w-12 h-auto" src="/src/assets/dental.png" alt="" />
+                  <img class="flex-shrink-0 w-10 h-auto" src="/src/assets/dental.png" alt="" />
                   <div class="ml-5 mr-auto">
                     <p class="text-xl font-semibold text-black">Teeth Whitening</p>
                   </div>
@@ -22,26 +22,26 @@ function Section() {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
                 </div>
-                <p class="text-base leading-relaxed text-gray-600 mt-7">Brighten your smile with professional whitening treatments that remove stains and discoloration for a radiant look.</p>
+                <p class="text-base leading-5.5 text-gray-600 mt-5">Brighten your smile with professional whitening treatments that remove stains and discoloration for a radiant look.</p>
               </div>
             </div>
 
             <div class="overflow-hidden bg-blue-100 rounded shadow">
               <div class="p-8">
                 <div class="flex items-center">
-                  <img class="flex-shrink-0 w-12 h-auto" src="/src/assets/dental.png" alt="" />
+                  <img class="flex-shrink-0 w-10 h-auto" src="/src/assets/dental.png" alt="" />
                   <div class="ml-5 mr-auto">
                     <p class="text-xl font-semibold text-black">Dental Implants</p>
                   </div>
                 </div>
-                <p class="text-base leading-relaxed text-gray-600 mt-7">A permanent solution for missing teeth, dental implants restore function and appearance with natural-looking replacements.</p>
+                <p class="text-base leading-5.5 text-gray-600 mt-5">A permanent solution for missing teeth, dental implants restore function and appearance with natural-looking replacements.</p>
               </div>
             </div>
 
             <div class="overflow-hidden bg-blue-100 rounded shadow">
               <div class="p-8">
                 <div class="flex items-center">
-                  <img class="flex-shrink-0 w-12 h-auto" src="/src/assets/dental.png" alt="" />
+                  <img class="flex-shrink-0 w-10 h-auto" src="/src/assets/dental.png" alt="" />
                   <div class="ml-5 mr-auto">
                     <p class="text-xl font-semibold text-black">Tooth Extraction</p>
                   </div>
@@ -49,14 +49,14 @@ function Section() {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
                 </div>
-                <p class="text-base leading-relaxed text-gray-600 mt-7">Safe and painless removal of damaged or impacted teeth, including wisdom teeth, to maintain oral health.</p>
+                <p class="text-base leading-5.5 text-gray-600 mt-5">Safe and painless removal of damaged or impacted teeth, including wisdom teeth, to maintain oral health.</p>
               </div>
             </div>
 
             <div class="overflow-hidden bg-blue-100 rounded shadow">
               <div class="p-8">
                 <div class="flex items-center">
-                  <img class="flex-shrink-0 w-12 h-auto" src="/src/assets/dental.png" alt="" />
+                  <img class="flex-shrink-0 w-10 h-auto" src="/src/assets/dental.png" alt="" />
                   <div class="ml-5 mr-auto">
                     <p class="text-xl font-semibold text-black">Laser Dentistry</p>
                   </div>
@@ -64,14 +64,14 @@ function Section() {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
                 </div>
-                <p class="text-base leading-relaxed text-gray-600 mt-7">Advanced, minimally invasive treatments using laser technology for gum reshaping, cavity removal, and other procedures.</p>
+                <p class="text-base leading-5.5 text-gray-600 mt-5">Advanced, minimally invasive treatments using laser technology for gum reshaping, cavity removal, and other procedures.</p>
               </div>
             </div>
 
             <div class="overflow-hidden bg-blue-100 rounded shadow">
               <div class="p-8">
                 <div class="flex items-center">
-                  <img class="flex-shrink-0 w-12 h-auto" src="/src/assets/dental.png" alt="" />
+                  <img class="flex-shrink-0 w-10 h-auto" src="/src/assets/dental.png" alt="" />
                   <div class="ml-5 mr-auto">
                     <p class="text-xl font-semibold text-black">Cosmetic Dentistry</p>
                   </div>
@@ -79,14 +79,14 @@ function Section() {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
                 </div>
-                <p class="text-base leading-relaxed text-gray-600 mt-7">Enhance the appearance of your teeth with veneers, bonding, and other cosmetic treatments for a flawless smile.</p>
+                <p class="text-base leading-5.5 text-gray-600 mt-5">Enhance the appearance of your teeth with veneers, bonding, and other cosmetic treatments for a flawless smile.</p>
               </div>
             </div>
 
             <div class="overflow-hidden bg-blue-100 rounded shadow">
               <div class="p-8">
                 <div class="flex items-center">
-                  <img class="flex-shrink-0 w-12 h-auto" src="/src/assets/dental.png" alt="" />
+                  <img class="flex-shrink-0 w-10 h-auto" src="/src/assets/dental.png" alt="" />
                   <div class="ml-5 mr-auto">
                     <p class="text-xl font-semibold text-black">Pediatric Dentistry</p>
                   </div>
@@ -94,7 +94,7 @@ function Section() {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
                 </div>
-                <p class="text-base leading-relaxed text-gray-600 mt-7">Gentle and specialized dental care for children, ensuring healthy development and positive oral habits.</p>
+                <p class="text-base leading-5.5 text-gray-600 mt-5">Gentle and specialized dental care for children, ensuring healthy development and positive oral habits.</p>
               </div>
             </div>
           </div>
